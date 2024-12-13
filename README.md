@@ -23,8 +23,8 @@ The MNIST dataset consists of 60,000 28x28 grayscale images of handwritten digit
    ```bash
    git clone https://github.com/your-username/handwritten-digit-recognition.git
    cd handwritten-digit-recognition
-  ```
+
 2.Install the required dependencies:
   ```
   pip install -r requirements.txt
-  ```
+
