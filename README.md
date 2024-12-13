@@ -28,3 +28,15 @@ The MNIST dataset consists of 60,000 28x28 grayscale images of handwritten digit
   ```
   pip install -r requirements.txt
 
+3.To train the model on the MNIST dataset, run the following script:
+   ```This will:
+
+   Load and preprocess the MNIST dataset
+   Build and train a CNN model
+   Evaluate the model on the test dataset
+   Save the trained model to a file mnist_model.h5
+4.To make predictions on new images, use the script predict.py:
+   ```
+    python train_model.py
+
+
