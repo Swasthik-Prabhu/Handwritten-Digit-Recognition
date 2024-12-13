@@ -20,17 +20,18 @@ The MNIST dataset consists of 60,000 28x28 grayscale images of handwritten digit
 ## Installation
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/handwritten-digit-recognition.git
    cd handwritten-digit-recognition
 
+
 2.Install the required dependencies:
-     ```
-     pip install -r requirements.txt
+  ```
+  install -r requirements.txt
 
 3.To train the model on the MNIST dataset, run the following script:
-      ```
-      python train_model.py
+   ```
+   python train_model.py
 
 
 Load and preprocess the MNIST dataset
