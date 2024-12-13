@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 1. Create a new repository on GitHub.
 2. Clone the repository to your local machine:
       ```
-      git clone https://github.com/your-username/handwritten-digit-recognition.git
+      https://github.com/Swasthik-Prabhu/Handwritten-Digit-Recognition.git
 
 3.Copy your project files (including the README.md) into the cloned repository folder.
 4.Commit and push the changes:
